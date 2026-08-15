@@ -1,0 +1,9 @@
+name = "vivamed-bot"
+main = "src/index.js"
+compatibility_date = "2026-07-28"
+
+# "wrangler kv namespace create CHATS_KV" buyrug'idan keyin
+# chiqqan haqiqiy "id" qiymatini shu yerga qo'ying.
+[[kv_namespaces]]
+binding = "CHATS_KV"
+id = "fdcf19f62f714034ad1dbe7dd6368080"
