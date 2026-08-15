@@ -1,0 +1,12 @@
+# --- TELEGRAM (majburiy) ---
+TELEGRAM_TOKEN=
+ADMIN_CHAT_ID=
+TG_SECRET=
+
+# --- AI (majburiy) ---
+GEMINI_API_KEY=
+
+# --- INSTAGRAM (hozircha bo'sh qoladi) ---
+META_TOKEN=
+META_APP_SECRET=
+VERIFY_TOKEN=
